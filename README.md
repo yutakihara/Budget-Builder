@@ -6,9 +6,9 @@
 Submitted by: **Yuta Kihara**
 
 ## Team Members
-* [] Chris Gilmore - Manager/QA
-* [] Zhijie (Jenny) Xu - GUI Design
-* [] Yuta Kihara - Software Developer
+*  Chris Gilmore - Manager/QA
+*  Zhijie (Jenny) Xu - GUI Design
+*  Yuta Kihara - Software Developer
 
 ## Functionality
 
